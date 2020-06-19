@@ -5,5 +5,4 @@ function cat() {
 cat.prototype.die = function(){
 	this.dead=true;
 }
-module.exports = cat;
 //write somethings
