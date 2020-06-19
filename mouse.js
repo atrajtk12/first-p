@@ -1,3 +1,6 @@
 function mouse(argument) {
-	// body...
+	this.stomach =[];
+}
+mouse.prototype.eat = function(){
+	this.stomach.push(cat)
 }
