@@ -1,0 +1,3 @@
+function Zebra(argument) {
+	// body...
+}
